@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "location": "bangalore",
+      "id": 101,
+      "name": "Chandrika"
+    },
+    {
+      "name": "Diya",
+      "id": 102,
+      "location": "Dehradun"
+    },
+    {
+      "id": 103,
+      "name": "Piaaa",
+      "location": "Mumbai"
+    },
+    {
+      "id": "105",
+      "name": "Eric",
+      "location": "shimla"
+    },
+    {
+      "id": "221",
+      "name": "Masot",
+      "location": "Bangalores"
+    },
+    {
+      "id": "52",
+      "name": "Chandrikaff",
+      "location": "Mumbaiii"
+    },
+    {
+      "id": "107",
+      "name": "Paknees",
+      "location": "Qatar"
+    }
+  ]
+}
