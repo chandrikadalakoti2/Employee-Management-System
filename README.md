@@ -5,5 +5,5 @@
 #### 2- JSON (dummy data)
 #### 3- Axios
 #### 4- MaterialUI
-![alt text](https://github.com/chandrikadalakoti2/Random-Quote-Generator/blob/main/Screenshot%20(162).png)
+![alt text](https://github.com/chandrikadalakoti2/Random-Quote-Generator/blob/main/Screenshot%20(163).png)
 
